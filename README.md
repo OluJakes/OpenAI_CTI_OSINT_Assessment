@@ -1,4 +1,4 @@
-\# OSINT-Based Threat Intelligence Assessment (openai.com)
+# OSINT-Based Threat Intelligence Assessment (openai.com)
 
 
 
