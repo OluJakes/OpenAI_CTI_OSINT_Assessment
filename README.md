@@ -1,3 +1,9 @@
+![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-blue)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![SOC Ready](https://img.shields.io/badge/SOC-Ready-green)
+![Defensive Research](https://img.shields.io/badge/Defensive-Research-informational)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # OSINT-Based Threat Intelligence Assessment (openai.com)
 
 
